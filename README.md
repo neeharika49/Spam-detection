@@ -1,1 +1,1 @@
-# Spam-detection
+# Spam-detection using naive bayes
